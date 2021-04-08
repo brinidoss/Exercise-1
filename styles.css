@@ -1,0 +1,54 @@
+/* background color light blue*/
+
+body{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.background{
+    border-radius: 3px;
+    box-shadow: 1px 1px 31px 0px rgba(0,0,0,0.75);
+    width: 305px;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    background-color:white;
+}
+.container{
+    text-align: center;
+    padding: 10px;
+}
+
+/* heading is bold font-weight*/
+
+
+input{
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 250px;
+}
+
+button{
+    background-color: skyblue;
+    color: white;
+    border: none;
+    width: 250px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+div{
+    padding: 20px;
+}
+h1{
+    margin: 0px;
+}
+p{
+    margin: 0px;
+    font-style: italic;
+}
+/* text input fields have border-bottom only*/
+/* border-radius on form is baby curve*/
+/*box shadow on form*/
+
